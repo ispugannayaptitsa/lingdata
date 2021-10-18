@@ -1,0 +1,43 @@
+1	  многий_DET говорить_VERB что_PRON //_PUNCT  	я_PRON вот_PART …_PUNCT из_ADP то_PRON 	livecorpus2021_lemma_pos.1.txt
+2	  человек_NOUN /_PUNCT старик_NOUN //_PUNCT  	я_PRON вот_PART /_PUNCT не_PART понимать_VERB 	livecorpus2021_lemma_pos.1.txt
+3	 чно_ADV вакцинироваться_VERB нужный_ADJ //_PUNCT  	я_PRON вот_PART /_PUNCT ну_PART если_SCONJ 	livecorpus2021_lemma_pos.1.txt
+4	  //_PUNCT  то_PRON быть_VERB //_PUNCT 	я_PRON вот_PART //_PUNCT среди_ADP /_PUNCT 	livecorpus2021_lemma_pos.1.txt
+5	  этот_DET рука_NOUN /_PUNCT дак_SCONJ 	я_PRON вот_PART …_PUNCT так_ADV //_PUNCT  	livecorpus2021_lemma_pos.1.txt
+6	  /_PUNCT ээ_INTJ /_PUNCT у_ADP 	я_PRON вот_PART весь_DET это_PRON постигать_VERB 	livecorpus2021_lemma_pos.1.txt
+7	  мама_NOUN учить_VERB /_PUNCT так_ADV 	я_PRON вот_PART и_PART делать_VERB //_PUNCT  	livecorpus2021_lemma_pos.1.txt
+8	  добыть_VERB и_PART все_PRON //_PUNCT  	я_PRON вот_PART иногда_ADV в_ADP лес_NOUN //	livecorpus2021_lemma_pos.1.txt
+9	  говорить_VERB постоянно_ADV //_PUNCT  а_CCONJ 	я_PRON вот_PART интересный_ADJ по_ADP какой_DET 	livecorpus2021_lemma_pos.1.txt
+10	  я_PRON ассоциироваться_VERB время_NOUN /_PUNCT 	я_PRON вот_PART как-то_ADV не_PART //_PUNCT  	livecorpus2021_lemma_pos.1.txt
+11	  человек_NOUN прятаться_VERB //_PUNCT  ведь_PART 	я_PRON вот_PART не_PART прятаться_VERB /_PUNCT 	livecorpus2021_lemma_pos.1.txt
+12	  я_PRON уже_ADV /_PUNCT у_ADP 	я_PRON вот_PART недавно_ADV быть_AUX другой_DET 	livecorpus2021_lemma_pos.1.txt
+13	  /_PUNCT на_ADP пляж_NOUN а_CCONJ 	я_PRON вот_PART с_ADP тест_NOUN ЕГЭ_PROPN //	livecorpus2021_lemma_pos.1.txt
+14	  //_PUNCT  ага_INTJ //_PUNCT  а_CCONJ 	я_PRON вот_PART сейчас_ADV так_ADV вот_PART 	livecorpus2021_lemma_pos.1.txt
+15	  я_PRON честно_ADV говорить_VERB /_PUNCT 	я_PRON вот_PART так_ADV вот_PART думать_VERB /	livecorpus2021_lemma_pos.1.txt
+16	  молодежь_NOUN воспитывать_VERB ?_PUNCT //_PUNCT  	я_PRON вот_PART тоже_ADV она_PRON ругать_VERB //	livecorpus2021_lemma_pos.1.txt
+17	  помогать_VERB /_PUNCT ведь_PART ничто_PRON 	я_PRON вот_PART этот_DET же_PART молитва_NOUN /	livecorpus2021_lemma_pos.1.txt
+18	  как_SCONJ тренер_NOUN //_PUNCT  и_CCONJ 	вот_PART я_PRON /_PUNCT как_ADV бы_PART /	livecorpus2021_lemma_pos.1.txt
+19	  сейчас_ADV заниматься_VERB да_PART /_PUNCT 	вот_PART я_PRON …_PUNCT повториться_VERB она_PRON 	livecorpus2021_lemma_pos.1.txt
+20	  вы_PRON обманывать_VERB ?_PUNCT //_PUNCT  	вот_PART я_PRON /_PUNCT я_PRON девяносто_NUM 	livecorpus2021_lemma_pos.1.txt
+21	  такой_DET еп_VERB твой_DET хотя_SCONJ 	вот_PART я_PRON бы_AUX еще_ADV немножечко_ADV 	livecorpus2021_lemma_pos.1.txt
+22	  /_PUNCT отец_NOUN мочь_VERB сказать_VERB 	вот_PART я_PRON воспитать_VERB сын_NOUN -_PUNCT 	livecorpus2021_lemma_pos.1.txt
+23	  лечить_VERB такой_DET дело_NOUN /_PUNCT 	вот_PART я_PRON все_ADV и_PART бояться_VERB /	livecorpus2021_lemma_pos.1.txt
+24	  производство_NOUN //_PUNCT  все_PRON //_PUNCT  	вот_PART я_PRON все_PRON спрашивать_VERB назвать_VERB 	livecorpus2021_lemma_pos.1.txt
+25	  дай-й_CCONJ нет_PART /_PUNCT это_PART 	вот_PART я_PRON всегда_ADV думать_VERB /_PUNCT 	livecorpus2021_lemma_pos.1.txt
+26	   и_CCONJ антибиотик_NOUN //_PUNCT  так_ADV 	вот_PART я_PRON к_ADP что_PRON /_PUNCT 	livecorpus2021_lemma_pos.1.txt
+27	  вместе_ADV ходить_VERB //_PUNCT  потом_ADV 	вот_PART я_PRON когда_SCONJ замуж_ADV выйти_VERB //	livecorpus2021_lemma_pos.1.txt
+28	  весь_DET по-старому_ADV //_PUNCT  как_SCONJ 	вот_PART я_PRON мама_NOUN учить_VERB /_PUNCT 	livecorpus2021_lemma_pos.1.txt
+29	  восьмой_ADJ //_PUNCT  а_CCONJ что_PRON 	вот_PART я_PRON мочь_VERB рассказать_VERB ?_PUNCT //	livecorpus2021_lemma_pos.1.txt
+30	  себя_PRON оставить_VERB /_PUNCT ну_PART 	вот_PART я_PRON на_ADP …_PUNCT на_ADP 	livecorpus2021_lemma_pos.1.txt
+31	  …_PUNCT /_PUNCT предположить_VERB ну_PART 	вот_PART я_PRON несколько_NUM раз_NOUN сталкиваться_VERB /	livecorpus2021_lemma_pos.1.txt
+32	  еще_ADV лошадь_NOUN запрягать_VERB дак_PART 	вот_PART я_PRON она_PRON /_PUNCT сестра_NOUN 	livecorpus2021_lemma_pos.1.txt
+33	  вредный_ADJ быть_AUX //_PUNCT  да_CCONJ 	вот_PART я_PRON помнить_VERB /_PUNCT на_ADP //	livecorpus2021_lemma_pos.1.txt
+34	  теплый_ADJ //_PUNCT  все_PRON //_PUNCT  	вот_PART я_PRON приехать_VERB /_PUNCT затопить_VERB 	livecorpus2021_lemma_pos.1.txt
+35	  газета_NOUN ?_PUNCT //_PUNCT  так_ADV 	вот_PART я_PRON про_ADP это_PRON //_PUNCT  	livecorpus2021_lemma_pos.1.txt
+36	  /_PUNCT бог_NOUN быть_AUX //_PUNCT  	вот_PART я_PRON сидеть_VERB обедать_VERB /_PUNCT 	livecorpus2021_lemma_pos.1.txt
+37	  /_PUNCT #нрзб#_X //_PUNCT  	вот_PART я_PRON сидеть_VERB я_PRON цветок_NOUN 	livecorpus2021_lemma_pos.1.txt
+38	  вы_PRON весь_DET желтенький_ADJ //_PUNCT  	вот_PART я_PRON стоять_VERB перед_ADP ты_PRON /	livecorpus2021_lemma_pos.1.txt
+39	  четырнадцать_NUM год_NOUN //_PUNCT  что_PRON 	вот_PART я_PRON так_ADV написать_VERB я_PRON 	livecorpus2021_lemma_pos.1.txt
+40	  //_PUNCT  угу_INTJ //_PUNCT  а_CCONJ 	вот_PART я_PRON там_ADV видеть_VERB ээ_INTJ 	livecorpus2021_lemma_pos.1.txt
+41	  /_PUNCT поверить_VERB я_PRON /_PUNCT 	вот_PART я_PRON только_PART щас_ADV она_PRON 	livecorpus2021_lemma_pos.1.txt
+42	  //_PUNCT  и_CCONJ сидеть_VERB человек_NOUN 	вот_PART я_PRON тут_ADV и_CCONJ сидеть_VERB 	livecorpus2021_lemma_pos.1.txt
+43	  забор_NOUN под_ADP котель_NOUN /_PUNCT 	вот_PART я_PRON тут_ADV сидеть_VERB тут_ADV 	livecorpus2021_lemma_pos.1.txt
